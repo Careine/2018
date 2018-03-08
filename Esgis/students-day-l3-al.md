@@ -1,9 +1,9 @@
 #Liste des membres du groupe pour le TP
 
 ## Groupe 1
-Nom :
-Prenom :
-Compte Github :
+Nom : OKOU
+Prenom : Caroline Reine
+Compte Github : https://github.com/Careine
 ---
 Nom : DAA-KPODE
 Prenom : Elvys Dona
